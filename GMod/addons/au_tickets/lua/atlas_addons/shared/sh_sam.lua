@@ -1,0 +1,1 @@
+sam.permissions.add("canviewtickets", "Staff", "admin")

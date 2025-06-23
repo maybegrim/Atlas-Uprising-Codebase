@@ -1,0 +1,1 @@
+player_manager.AddValidModel("forest_monster","models/props/forest_monster/forest_monster2.mdl")

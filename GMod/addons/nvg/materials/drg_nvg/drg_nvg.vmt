@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture drg_nvg/drg_nvg
+	$translucent 1
+}

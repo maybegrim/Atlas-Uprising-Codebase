@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\ifak\medical"
+	"$bumpmap"	"models\weapons\v_models\default_normal"
+	"$phong" 			"1"
+	"$phongexponent" 		"50"
+	"$phongboost" 			"0.5"
+	"$phongfresnelranges"		"[0.3 0.5 .6]"
+	"$halflambert"			"1"
+}

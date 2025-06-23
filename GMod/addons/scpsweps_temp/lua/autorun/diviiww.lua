@@ -1,0 +1,1 @@
+player_manager.AddValidModel("Divii's Werewolf","models/player/stenli/lycan_werewolf.mdl")list.Set("PlayerOptionsModel","Divii's Werewolf","models/player/stenli/lycan_werewolf.mdl")

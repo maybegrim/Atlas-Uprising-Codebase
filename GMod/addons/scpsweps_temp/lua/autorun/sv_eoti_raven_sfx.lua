@@ -1,0 +1,1 @@
+sound.Add{name="eoti_idlegrowlbird",channel=CHAN_STATIC,volume=0.4,level=80,pitch={95,110},sound="npc/fast_zombie/breathe_loop1.wav"}

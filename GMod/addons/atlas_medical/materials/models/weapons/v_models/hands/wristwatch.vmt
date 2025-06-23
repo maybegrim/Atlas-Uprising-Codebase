@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\weapons\view\hands\wristwatch"
+	"$bumpmap" "models\weapons\view\hands\wristwatch_normal"
+	"$phongexponenttexture" "models/albedotint"
+
+	"$phong" 			"1"
+	"$phongexponent"		"20"
+	"$phongboost" 			"1"
+	"$phongfresnelranges"		"[0.5 1.5 3.0]"//"[0.1 0.4 .8]"
+//	"$halflambert"			"1"
+	"$normalmapalphaenvmapmask"	"1"
+	$phongdisablehalflambert 1
+//	$halflambert 0
+	$PhongAlbedoTint 1
+	
+	"$rimlight" 0
+	"$rimlightexponent" 15
+}

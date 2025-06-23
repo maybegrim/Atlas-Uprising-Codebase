@@ -1,0 +1,16 @@
+util.AddNetworkString( 'PlayerIsDead' )
+util.AddNetworkString( 'PlayerShooting' )
+util.AddNetworkString( 'PlayerIsShooting' )
+hook.Add( "PlayerDeath", "Playerdeath", function(ply) 
+if GetConVar("SCP939HUD"):GetBool() == true then
+GetConVar("SCP939HUD"):SetBool(false)
+net.Start( 'SCP939HUDOFF' )
+net.WriteBool(true)
+net.Send( ply )
+end
+end)
+hook.Add('EntityFireBullets', 'PlayerIsShooting', function(entity)
+net.Start('PlayerShooting')
+net.WriteEntity(entity)
+net.Broadcast()
+end)

@@ -1,0 +1,9 @@
+Patch
+{
+include "materials\models\player\nmrih_playerbody_shared.vmt"
+insert
+{
+$basetexture "models\player\m_butcher\m_butcher_s_body_c"
+$bumpmap "models\player\m_butcher\m_butcher_s_body_n"
+}
+}

@@ -1,0 +1,2 @@
+SCP294Shared.Config = {}
+

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/ntf/lense"
+	"$translucent" "1"
+}

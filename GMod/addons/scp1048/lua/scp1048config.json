@@ -1,0 +1,11 @@
+{
+    "ScreamSoundFile": "scream.wav",
+    "ScreamRadius": 650,
+    "ScreamCooldown": 15,
+    "TotalScreamDamage": 75,
+    "ScreamDamageDuration": 5,
+    "SCP1048AHealth": 1500,
+    "NeededEars": "5",
+    "SCP1048JobName": "SCP-1048 'The Builder Bear'",
+    "SCP1048AJobName": "SCP-1048-A 'Ear Bear'"
+}

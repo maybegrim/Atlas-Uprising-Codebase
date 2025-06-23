@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\ifak\hemostat"
+	"$envmap" "env_cubemap"
+
+}

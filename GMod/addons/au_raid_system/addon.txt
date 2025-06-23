@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"			"Raid System"
+	"version"		"1"
+	"up_date"		"5/27/2022"
+	"author_name"	"Buckell"
+	"author_email"	""
+	"author_url"	""
+	"info"			""
+	"override"		"0"
+}

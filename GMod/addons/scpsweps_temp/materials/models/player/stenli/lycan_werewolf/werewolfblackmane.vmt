@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 			"models\player\stenli\lycan_werewolf\werewolfblackmane"
+	
+	"$translucent" 1
+	//"$alphatest" 1
+	"$model" 1
+	"$nocull" 1
+}
+
+
+

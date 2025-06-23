@@ -1,0 +1,7 @@
+hook.Add("InventoryCraftingLoaded", "RESEARCH::ADDRECIPES", function()
+    INVENTORY.Crafting.CreateRecipe( "e_049", {requiredItems = {["essence_049"] = 1, ["essence_939"] = 1}, outputItem = "combined_essence"} )
+    INVENTORY.Crafting.CreateRecipe( "e_682", {requiredItems = {["essence_049"] = 1, ["essence_682"] = 1}, outputItem = "combined_essence"} )
+    INVENTORY.Crafting.CreateRecipe( "e_939", {requiredItems = {["essence_682"] = 1, ["essence_939"] = 1}, outputItem = "combined_essence"} )
+    INVENTORY.Crafting.CreateRecipe( "con_iron", {requiredItems = {["quality_iron"] = 1, ["quartz"] = 1}, outputItem = "metal_tubing"} )
+    INVENTORY.Crafting.CreateRecipe( "ecore", {requiredItems = {["combined_essence"] = 1, ["metal_tubing"] = 1}, outputItem = "essence_core"} )
+end)

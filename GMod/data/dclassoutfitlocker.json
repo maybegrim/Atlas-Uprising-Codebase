@@ -1,0 +1,12 @@
+{
+    "LockerModel": "models/props_c17/lockers001a.mdl",
+    "ArmorToAdd": 40,
+    "MaleModels": [
+        "models/player/pmc_4/pmc__12.mdl",
+        "models/stalker_mercgang/merc_black.mdl"
+    ],
+    "FemaleModels": [
+        "models/player/pmc_4/pmc__12.mdl",
+        "models/stalker_mercgang/merc_black.mdl"
+    ]
+}

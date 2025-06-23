@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 			"models\player\stenli\lycan_werewolf\BlackWerewolfBody"
+	"$bumpmap" 			"models\player\stenli\lycan_werewolf\BlackWerewolfBody_N"
+
+   "$phong" "1"
+	"$phongexponent" "6"	
+	"$phongboost"   "0.8"
+	"$phongfresnelranges" "[.05 .1 .2]"   	
+}
+
+
+

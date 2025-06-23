@@ -1,0 +1,2 @@
+local
+_="Raven Warrior"list.Set("PlayerOptionsModel","Raven Warrior","Models/player/ravenwarriorplayer.mdl")player_manager.AddValidModel("Raven Warrior","Models/player/ravenwarriorplayer.mdl")player_manager.AddValidHands("Raven Warrior","Models/Viewmodels/ravenwarriorplayerhands.mdl",0,"00000000")

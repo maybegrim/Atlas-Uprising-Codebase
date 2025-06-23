@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models/PMC/PMC_4/GSAAA"
+	 "$bumpmap" 			"models/PMC/PMC_Shared/GSAAA_n"
+
+	 "$envmap" 			"env_cubemap"
+	"$envmaptint"			"[ 0.36 0.36 0.36 ]"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmapsaturation" 0.7
+	"$envmapcontrast" 0.3
+
+	"$model" 1
+	"$surfaceprop" "flesh"
+	"$halflambert" 1
+}

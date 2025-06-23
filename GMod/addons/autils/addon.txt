@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"			"AUtils"
+	"version"		"1"
+	"up_date"		"5/28/2021"
+	"author_name"	"Buckell"
+	"author_email"	"max@altis.gg"
+	"author_url"	""
+	"info"			""
+	"override"		"0"
+}

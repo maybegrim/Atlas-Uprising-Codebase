@@ -1,0 +1,4 @@
+ACTIVITY.CFG = ACTIVITY.CFG or {}
+
+ACTIVITY.CFG.IgnoreTeams = {
+}

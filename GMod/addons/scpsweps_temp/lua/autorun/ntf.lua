@@ -1,0 +1,1 @@
+player_manager.AddValidModel("NTF Male","models/player/ntf_male.mdl")list.Set("PlayerOptionsModel","NTF Male","models/player/ntf_male.mdl")player_manager.AddValidModel("NTF Female","models/player/ntf_female.mdl")list.Set("PlayerOptionsModel","NTF Female","models/player/ntf_female.mdl")

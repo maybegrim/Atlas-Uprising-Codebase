@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/ntf/body"
+	"$bumpmap" "models/player/ntf/body_bump"
+}

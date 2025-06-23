@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models/PMC/PMC_4/Beret"
+	"$bumpmap" 			"models/PMC/PMC_Shared/Beret_n"
+
+	"$model" 1
+	"$surfaceprop" "carpet"
+	"$halflambert" 1
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\prop\junk\meat_01"
+          //  "$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "flesh"
+        "$model" 1
+}

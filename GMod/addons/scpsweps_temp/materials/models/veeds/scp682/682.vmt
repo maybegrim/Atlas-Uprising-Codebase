@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$BaseTexture" "models/veeds/scp682/682"
+	"$bumpmap" "models/veeds/scp682/682_n"
+
+	$emissiveBlendEnabled 1
+    $emissiveBlendTexture    "dev/null"
+    $emissiveBlendBaseTexture    "models/veeds/scp682/682_g"
+    $emissiveBlendFlowTexture    "dev/null"
+    $emissiveBlendTint "[0.7, 0.9, 0.2]"
+    $emissiveBlendStrength 1
+    $emissiveBlendScrollVector "[0 0]"
+
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongfresnelranges"	"[0.2 0.1 1]"
+}

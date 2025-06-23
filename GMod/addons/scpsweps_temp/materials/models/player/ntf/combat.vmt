@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\NTF\Combat"
+
+	$halflambert 1
+	"$phong" 1
+	"$phongexponent" 7
+	"$phongboost" 2.4
+	"$phongfresnelranges" "[1 1 1]"
+}
